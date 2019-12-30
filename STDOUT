@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="23.925371">
+<testcase classname="Open BlazedzDemo Application" name="Booking Flights" time="23.925371">
+<system-out><![CDATA[Given Launch The Browser....................................................passed
+And Choose your departureanddestinationcity:................................passed
+When Click On Find Flights..................................................passed
+Then Choose This Flights....................................................passed
+And Enter "Mohima Akter" and "25-35,178street" and "Jamaica" and "New York" and "12345".passed
+And Select DropDown Button..................................................passed
+And Enter "123456789","12","2022","Mohima"..................................passed
+And Click On Purchase Flight................................................passed
+And Close The Browser.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
